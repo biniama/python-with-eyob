@@ -1,0 +1,2 @@
+1. Try out all examples
+2. Improve the conditional to include edge cases such as age is less than 0, and if age is above 120, say 'invalid age'

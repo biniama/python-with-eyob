@@ -1,0 +1,4 @@
+Exercise: write a program that checks username and password
+if username is ‘eyob’ and password is 123456, then the user can go to home screen.
+if username is 'biniam' and password is 777, then greet the user and tell him to go to admin screen (on separate lines)
+otherwise print an error message

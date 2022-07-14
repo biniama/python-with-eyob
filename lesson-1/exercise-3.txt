@@ -1,0 +1,4 @@
+Homework
+Write a program that informs the user if he/she is a coronavirus suspect.
+A user is a suspect if s/he is older than 65 and has been to China or Italy and
+has a previous respiratory disease.

@@ -1,0 +1,21 @@
+# PRINT THE FOLLOWING
+*
+**
+***
+****
+*****
+******
+
+# PRINT THE FOLLOWING
+1 2 3 4 5
+1 2 3 4
+1 2 3
+1 2
+1
+
+# PRINT THE FOLLOWING
+5 4 3 2 1
+5 4 3 2
+5 4 3
+5 4
+5

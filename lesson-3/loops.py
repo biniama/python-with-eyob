@@ -5,8 +5,9 @@
 # print(f'Sum is {sum}')
 
 # Using for loop
+# i is our counter variable
 sum = 0
-for i in range(1,11):   # the last number in range is not considered
+for i in range(1,11):   # the last number in range is not considered,by default increases by 1
     sum = sum + i
 print(f'Sum is {sum}')
 
